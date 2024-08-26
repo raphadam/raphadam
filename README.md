@@ -6,11 +6,14 @@
 &emsp;&emsp;👾 [nesgo](https://github.com/raphadam/nesgo) NES emulator simulating the 6502 cpu in go. \
 &emsp;&emsp;🧰 [datt](https://github.com/raphadam/datt) Generic data structures and algorithms with various implementations in go. Zero Dependency. 
 
+&emsp;🌐 **WEB APPS** \
+&emsp;&emsp;Explore and interact with my web applications on my website: [raphaeladam.dev](https://www.raphaeladam.dev) 
+
+&emsp;🚧 **WORK IN PROGRESS** \
+&emsp;&emsp;🖥️ [pc1](https://github.com/raphadam/pc1) Implementation of a simple computer designed to run on an FPGA and written in VHDL. 
+
 &emsp;📫 **REACH ME** \
 &emsp;&emsp;Go on my website on the left-hand side of my profile.
-
-
-
 
 <!--
 **raphadam/raphadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
