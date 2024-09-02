@@ -10,7 +10,8 @@
 &emsp;&emsp;Explore and interact with my web applications on my website: [raphaeladam.dev](https://www.raphaeladam.dev) 
 
 &emsp;🚧 **WORK IN PROGRESS** \
-&emsp;&emsp;🖥️ [pc1](https://github.com/raphadam/pc1) Implementation of a simple computer designed to run on an FPGA and written in VHDL. 
+&emsp;&emsp;🖥️ [pc1](https://github.com/raphadam/pc1) Implementation of a simple computer designed to run on an FPGA and written in VHDL. \
+&emsp;&emsp;📦 [guibox](https://github.com/raphadam/guibox) Run desktop applications or complete desktop environments inside a highly sandboxed container. 
 
 &emsp;📫 **REACH ME** \
 &emsp;&emsp;Go on my website on the left-hand side of my profile.
